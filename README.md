@@ -1,2 +1,2 @@
-# toDoList-class
+# front-end-projects
 Created with CodeSandbox
